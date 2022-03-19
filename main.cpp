@@ -1,4 +1,4 @@
-//d3d11 w2s finder by n7
+//y
 #include <vector>
 #include <sstream>
 #include <chrono>
