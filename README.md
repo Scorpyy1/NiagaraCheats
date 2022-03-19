@@ -2,4 +2,11 @@
 Chapter 1 Fortnite Cheats (FORTNITE)
 
 
-I will finish updating this project very soon
+the project is completed
+
+i'll add the chapter 3 support very soon
+
+
+you can find the version for chapter 3 here:
+
+
