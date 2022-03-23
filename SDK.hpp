@@ -1,7 +1,7 @@
 
 #pragma once
 
-// Fortnite SDK
+// SKD
 
 #include <set>
 #include <string>
